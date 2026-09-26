@@ -47,6 +47,6 @@ const styles = StyleSheet.create({
   header: { fontSize: 24, fontWeight: 'bold', marginBottom: 20 },
   input: { backgroundColor: '#fff', padding: 15, borderRadius: 8, marginBottom: 15, borderWidth: 1, borderColor: '#e4e4e7' },
   textArea: { minHeight: 120 },
-  button: { backgroundColor: '#006FEE', padding: 15, borderRadius: 8, alignItems: 'center', marginTop: 10 },
+  button: { backgroundColor: '#9d0c0c', padding: 15, borderRadius: 8, alignItems: 'center', marginTop: 10 },
   buttonText: { color: '#fff', fontWeight: 'bold', fontSize: 16 }
 });

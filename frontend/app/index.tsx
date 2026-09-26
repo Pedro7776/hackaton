@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between' 
   },
   primaryButton: { 
-    backgroundColor: '#006FEE', 
+    backgroundColor: '#9d0c0c', 
     paddingVertical: 8, 
     paddingHorizontal: 16, 
     borderRadius: 8 
@@ -138,13 +138,13 @@ const styles = StyleSheet.create({
     position: 'absolute',
     bottom: 30,
     right: 20,
-    backgroundColor: '#006FEE',
+    backgroundColor: '#9d0c0c', 
     width: 60,
     height: 60,
     borderRadius: 30,
     justifyContent: 'center',
     alignItems: 'center',
-    shadowColor: '#006FEE',
+    shadowColor: '#9d0c0c',
     shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.3,
     shadowRadius: 6,
